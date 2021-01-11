@@ -17,7 +17,7 @@ Plus you will see how to use correctly:
 
 ## Demo
 
-[Link](https://heysafronov.github.io/square-react-dashboard/dist/#/login). Use login and password "admin" to log in.
+Use login and password "admin" to log in.
 
 Try to use drag and drop and other functionality. If this repository is interest and will get more than 10 stars, then the plan is will expanding current functionality and writing Style Guide for medium+ projects with React + TypeScript technical stack.
 
@@ -50,7 +50,3 @@ Compatible with every evergreen browser.
 ## Web design
 
 Iconspace. [Stylish Dashboard UI Kit for Various Need](https://iconspace.co/product/square-dashboard-ui-kit/). Made with a unique style using rounded corner shape & modern color scheme. Make it looks dynamic and matches with the current and future design styles.
-
-## License
-
-Licensed under [MIT](https://github.com/heysafronov/square-react-dashboard/blob/master/LICENSE).
